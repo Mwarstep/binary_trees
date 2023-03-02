@@ -1,4 +1,4 @@
-#include "binary_trees.c"
+#include "binary_trees.h"
 
 /**
  * binary_tree_rotate_left - will perform a left rotation on binary tree
